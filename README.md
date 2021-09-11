@@ -12,4 +12,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/{lntechnical2}/count.svg)
 
 ## YouTube 
-
+<a href="https://youtube.com/c/LNtechnical"> <img src="https://img.shields.io/youtube/channel/subscribers/UCxV8fWQAm7s-S7RVK51yw-A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
