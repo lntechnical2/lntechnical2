@@ -6,7 +6,7 @@
 
 
 ### My Stats
-![mr_lokaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lntechnical2-lab&show_icons=true&theme=radical)
+![mr_lokaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lntechnical2&show_icons=true&theme=radical)
 
 
 ## Profile views counter
