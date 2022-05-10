@@ -5,7 +5,8 @@
 </p>
 
 
-![Github Stats](https://readmestats.vercel.app/api?username=lntechnical2&show_icons=true&title_color=333&icon_color=d43111&count_private=true&include_all_commits=true)
+### My Stats
+![mr_lokaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lntechnical2-lab&show_icons=true&theme=radical)
 
 
 ## Profile views counter
